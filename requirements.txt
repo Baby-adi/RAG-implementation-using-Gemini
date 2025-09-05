@@ -1,7 +1,10 @@
-langgraph
-langchain
-langchain-community
-chromadb
-sentence-transformers
-pypdf
 streamlit
+langchain
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+python-dotenv
+chromadb
+pypdf
+sentence-transformers
+numpy
