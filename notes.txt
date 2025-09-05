@@ -1,0 +1,6 @@
+langraph -> workflow
+lanchain -> core framework
+langchain-community -> community integration
+chromadb -> vector db
+sentence-transformers -> embeddings
+pypdf -> parsing pdfs
